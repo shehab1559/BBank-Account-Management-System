@@ -1,6 +1,6 @@
 # BBank-Account-Management-System
 A C-based banking management system that allows administrators to manage bank accounts and clients to perform banking operations, including deposits, withdrawals, money transfers, and balance inquiries. It uses linked lists for dynamic account management and provides basic login and input validation features.
-# IMT Bank (Version 3)
+# Bank (Version 3)
 
 A console-based banking management system written in **C11**, featuring persistent binary storage, salted SHA-256 password hashing, strict integer-cent financial validation, and account state management.
 
